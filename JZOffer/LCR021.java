@@ -29,10 +29,10 @@ public class LCR021 {
         ListNode back=head;
         while(front.next!=null){
             front=front.next;
-            if(n==0){
+            if(n<=0){
                 back=back.next;
-                n--;
             }
+            n--;
         }
         //删除head
         if(n==1){
