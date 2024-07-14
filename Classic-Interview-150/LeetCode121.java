@@ -1,5 +1,5 @@
 //买卖股票的最佳时机
-class Solution {
+public class LeetCode121 {
     public int maxProfit(int[] prices) {
         // 直接暴力求解，会超时
         // int max = 0, maxI = -1, maxJ = -1;

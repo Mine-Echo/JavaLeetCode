@@ -1,5 +1,5 @@
 //买卖股票的最佳时机II
-class Solution {
+public class LeetCode122 {
     public int maxProfit(int[] prices) {
         // 做了第一道题后，再做这题就不是很难，直接On方法拿下
         int buy = Integer.MAX_VALUE, profit = 0;

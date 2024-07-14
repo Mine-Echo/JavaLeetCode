@@ -1,6 +1,6 @@
 //多数元素
 
-class Solution {
+public class LeetCode169 {
     public int majorityElement(int[] nums) {
         //之前做过这道题，可以用摩尔投票法
         int ret=nums[0];

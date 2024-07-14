@@ -1,6 +1,6 @@
 //除自身以外的数组的乘积
 
-class Solution {
+public class LeetCode238 {
     public int[] productExceptSelf(int[] nums) {
         // 方法1
         // int[] pre = new int[nums.length];

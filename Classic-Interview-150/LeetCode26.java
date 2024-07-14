@@ -1,5 +1,5 @@
 //删除有序数组的重复项
-class Solution {
+public class LeetCode26 {
     public int removeDuplicates(int[] nums) {
         // 感觉可以用双指针法
         if (nums.length == 0)

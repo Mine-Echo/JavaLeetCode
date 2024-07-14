@@ -1,5 +1,5 @@
 //跳跃游戏
-class Solution {
+public class LeetCode55 {
     public boolean canJump(int[] nums) {
         // 从后往前判断很容易
         if (nums.length < 2)

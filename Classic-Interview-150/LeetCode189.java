@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-class Solution {
+public class LeetCode189 {
     public void rotate(int[] nums, int k) {
         // int[] copy = Arrays.copyOf(nums, nums.length);
         // for (int i = 0; i < copy.length; i++) {

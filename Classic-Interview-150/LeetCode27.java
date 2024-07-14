@@ -1,6 +1,6 @@
 //移除元素
 
-class LeetCode27 {
+public class LeetCode27 {
     public int removeElement(int[] nums, int val) {
         // 自己想的一个方法，一边遍历直接完成，遍历到val时把目前最后一个元素换到该位置，然后总长度--
         int length = nums.length;

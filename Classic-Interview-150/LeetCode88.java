@@ -1,6 +1,6 @@
 //合并两个有序数组
 
-class Solution {
+public class LeetCode88 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         // 经典merge
         // 不过这题有一个空间复杂度为O1的算法

@@ -1,5 +1,5 @@
 //跳跃游戏II
-class Solution {
+public class LeetCode45 {
     public int jump(int[] nums) {
         // 可以反着来，时间复杂度有点高，On2
         // int index = nums.length - 1;
